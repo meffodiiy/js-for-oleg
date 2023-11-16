@@ -1,0 +1,12 @@
+{
+  "name": "js-for-oleg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch code.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
